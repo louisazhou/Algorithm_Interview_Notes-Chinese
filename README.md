@@ -2,7 +2,7 @@
 ===
 **GitHub** 地址：https://github.com/
 
-**说明**（2019-07-11）：准备项目和面试ing，在这里接着原作者https://github.com/imhuay/Algorithm_Interview_Notes-Chinese的工作，整理知识点之类的
+**说明**（2019-07-11）：准备项目和面试ing，在这里接着原作者的工作，使用一些他现成的文字，在此基础上帮自己整理知识点之类的https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 
 RoadMap
 ---
